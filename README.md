@@ -19,3 +19,6 @@ Edit the file_path variable in the change_permissions.py script to point to your
 Run the script using the following command
 
 ![image](https://github.com/user-attachments/assets/59f75068-42b0-47be-95df-6df89b59542c)
+
+
+![Screenshot 2025-01-13 030913](https://github.com/user-attachments/assets/e2f8f15f-0d12-4a08-8eed-09e8f72dd085)
